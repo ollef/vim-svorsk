@@ -3,6 +3,7 @@ aldrig aldri
 allt alt
 andra andre
 anna{n,t} anne{n,t}
+antal{,et,en} antall{,et,ene}
 att å
 bakom bak
 bara bare
