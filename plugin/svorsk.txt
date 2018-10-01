@@ -177,6 +177,7 @@ tog tok
 trott trodd
 två to
 tyck{a,er,te,t} syn{es,s,tes,tes}
+tyvärr dessverre
 tänk{,a,er,te,t} tenk{,e,er,te,t}
 upp opp
 uppgradera{,r,de,t} oppgrader{e,er,te,t}
