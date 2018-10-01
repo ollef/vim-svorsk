@@ -5,4 +5,4 @@ function! s:svorsk()
   endfor
 endfunction
 
-command Svorsk call s:svorsk()
+command! Svorsk call s:svorsk()
